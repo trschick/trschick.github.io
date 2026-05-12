@@ -1,6 +1,6 @@
 ---
 title: "On the Self"
-pubDatetime: 2024-05-09
+pubDatetime: 2026-05-11
 slug: "on-the-self"
 tags:
   - hume

@@ -1,6 +1,6 @@
 ---
 title: "On Causation"
-pubDatetime: 2024-05-09
+pubDatetime: 2026-05-11
 slug: "on-causation"
 tags:
   - hume
